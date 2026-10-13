@@ -1,0 +1,22 @@
+[
+    {
+        "customer_id":"C0161",
+        "total_purchase":11905.41
+    },
+    {
+        "customer_id":"C0288",
+        "total_purchase":10742.37
+    },
+    {
+        "customer_id":"C0264",
+        "total_purchase":10403.36
+    },
+    {
+        "customer_id":"C0117",
+        "total_purchase":9881.8
+    },
+    {
+        "customer_id":"C0435",
+        "total_purchase":9758.65
+    }
+]
